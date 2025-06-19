@@ -1,4 +1,1 @@
-data/mental_health_dataset_cleaned.csv
-data/cleaned_dataset.csv
-data/merged_clean_dataset.csv
-data/dataset2.csv
+data/*.csv
