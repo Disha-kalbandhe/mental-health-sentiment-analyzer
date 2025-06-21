@@ -3,3 +3,4 @@ scikit-learn
 joblib
 eli5
 matplotlib
+plotly
